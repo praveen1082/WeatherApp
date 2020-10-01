@@ -1,0 +1,22 @@
+{
+  "name": "weatherapp",
+  "version": "1.0.0",
+  "description": "Weather app finds the current weather condition of Kathmandu,Nepal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/praveen1082/WeatherApp.git"
+  },
+  "author": "Prawin Panta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/praveen1082/WeatherApp/issues"
+  },
+  "homepage": "https://github.com/praveen1082/WeatherApp#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
