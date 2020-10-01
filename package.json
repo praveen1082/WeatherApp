@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/praveen1082/WeatherApp#readme",
   "dependencies": {
-    "request": "^2.88.2"
+    "request": "^2.88.2",
+    "requests": "^0.3.0"
   }
 }
